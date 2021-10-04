@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "i": {
+      "item": "mcu:vibranium_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mcu:vibranium_pickaxe"
+  }
+}

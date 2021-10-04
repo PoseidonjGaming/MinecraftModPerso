@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "mcu:vibranium_ingot"
+  },
+  "result": {
+    "item": "mcu:vibranium_pickaxe"
+  }
+}

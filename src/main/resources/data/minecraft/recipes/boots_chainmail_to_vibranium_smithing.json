@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:chainmail_boots"
+  },
+  "addition": {
+    "item": "mcu:vibranium_ingot"
+  },
+  "result": {
+    "item": "mcu:vibranium_boots"
+  }
+}

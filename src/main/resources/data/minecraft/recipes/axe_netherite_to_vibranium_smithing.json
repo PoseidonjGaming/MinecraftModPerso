@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "mcu:vibranium_ingot"
+  },
+  "result": {
+    "item": "mcu:vibranium_axe"
+  }
+}

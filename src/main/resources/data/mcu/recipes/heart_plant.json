@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " m ",
+    "mfm",
+    " m "
+  ],
+  "key": {
+    "m": {
+      "item": "mcu:vibranium_stick"
+    },
+    "f": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "mcu:heart_plant"
+  }
+}

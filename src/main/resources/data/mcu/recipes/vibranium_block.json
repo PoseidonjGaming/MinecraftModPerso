@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "vvv",
+    "vvv",
+    "vvv"
+  ],
+  "key": {
+    "v": {
+      "item": "mcu:vibranium_ingot"
+    }
+  },
+  "result": {
+    "item": "mcu:vibranium_block"
+  }
+}
